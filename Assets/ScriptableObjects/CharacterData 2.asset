@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6bcc2f9348e4aa48a410bb95f0c8697, type: 3}
+  m_Name: CharacterData 2
+  m_EditorClassIdentifier: 
+  characterName: Char2
+  characterDescription: Jumper
+  addressableKey: Assets/Prefabs/Character2.prefab
+  baseWalkSpeed: 2.8
+  baseRunSpeed: 5.5
+  baseJumpForce: 6
+  walkSpeedUpgradeIncrement: 0.15
+  runSpeedUpgradeIncrement: 0.25
+  jumpForceUpgradeIncrement: 0.35
+  walkSpeedLevel: 0
+  runSpeedLevel: 0
+  jumpForceLevel: 0
